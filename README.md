@@ -1,5 +1,5 @@
 ## Project Assessment Instructions
-Greetings fellow **Eploratory Data Analysis** student. Per instructions below, you will find four R script files ([plot1.R](./plot1.R), [plot2.R](./plot2.R), [plot3.R](./plot2.R), [plot4.R](./plot4.R) ) and four png files ([plot1.png](./plot1.png) [plot2.png](./plot2.png), [plot3.png](./plot3.png), [plot4.png](./plot4.png) ) in the base directory of this project. These are the files you are supposed to evaluate. The scripts will download, process and read in the data so those are not included here. Also the ./figure directory was a part of the original repository from which this was forked and do not include any of my work.
+Greetings fellow **Eploratory Data Analysis** student. Per instructions below, you will find four R script files ([plot1.R](./plot1.R), [plot2.R](./plot2.R), [plot3.R](./plot3.R), [plot4.R](./plot4.R) ) and four png files ([plot1.png](./plot1.png) [plot2.png](./plot2.png), [plot3.png](./plot3.png), [plot4.png](./plot4.png) ) in the base directory of this project. These are the files you are supposed to evaluate. The scripts will download, process and read in the data so those are not included here. Also the ./figure directory was a part of the original repository from which this was forked and do not include any of my work.
 
 Enjoy!
 
