@@ -41,6 +41,7 @@ plotData[, DateTimeString := paste(Date, Time)]
 plotData[, DateTime := as.POSIXct(DateTimeString, tz = "", format = "%d/%m/%Y %H:%M:%S")]
 
 # Step 5: Create our histogram on screen
+par(bg = "transparent")
 hist(plotData$Global_active_power,
      main = "Global Active Power",
      xlab = "Global Active Power (kilowatts)",
@@ -48,6 +49,7 @@ hist(plotData$Global_active_power,
 
 # Step 6: Create our histogram in the png file
 png("plot1.png")
+par(bg = "transparent")
 hist(plotData$Global_active_power,
      main = "Global Active Power",
      xlab = "Global Active Power (kilowatts)",
