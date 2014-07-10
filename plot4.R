@@ -90,7 +90,7 @@ plot(plotData$DateTime,
 
 # Step 6: Create our 2 x 2 multiplot in the png file
 png("plot4.png", bg = "transparent")
-par(mfcol = c(2, 2))
+par(mfcol = c(2, 2), bg = "transparent")
 
 # - Plot 1: Line, Global Active Power
 plot(plotData$DateTime, 
