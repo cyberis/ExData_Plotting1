@@ -48,7 +48,7 @@ plot(plotData$DateTime,
      type = "l")
 
 # Step 6: Create our line plot in the png file
-png("plot2.png")
+png("plot2.png", bg = "transparent")
 plot(plotData$DateTime, 
      plotData$Global_active_power,
      xlab = "",

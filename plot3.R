@@ -61,7 +61,7 @@ legend("topright",
        lty = 1)
 
 # Step 6: Create our multi-line plot in the png file
-png("plot3.png")
+png("plot3.png", bg = "transparent")
 plot(plotData$DateTime, 
      plotData$Sub_metering_1,
      xlab = "",

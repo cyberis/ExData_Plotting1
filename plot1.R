@@ -6,7 +6,7 @@
 
 # Step 0: Set up our environment
 library(data.table) # fread() and subsetting are very fast with data table
-library(lubridate)  # Makes working with dates MUCH easier
+library(lubridate)  # Makes working with dates MUCH easier 
 
 # Step 1: Get the Data if we don't already have it
 if(!file.exists("./data")) {
