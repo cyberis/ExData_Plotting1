@@ -3,6 +3,8 @@ Greetings fellow **Eploratory Data Analysis** student. Per instructions below, y
 
 Enjoy!
 
+***Note:*** *Though you aren't suppose to run my code on your machine, if you wanted to do it, you would need the <span style = 'text-decoration:underline'>data.table</span> and <span style = 'text-decoration: underline'>lubridate</span> libraries to do so*
+
 ## Introduction
 
 This assignment uses data from
